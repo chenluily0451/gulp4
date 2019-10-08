@@ -1,5 +1,5 @@
 # gulp4
 
-gulp 配 置
+gulp 配置
 
 
